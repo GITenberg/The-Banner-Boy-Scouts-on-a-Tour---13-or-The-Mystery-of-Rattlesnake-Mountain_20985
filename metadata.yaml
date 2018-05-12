@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '3215'
     url: http://www.gutenberg.org/2009/agents/3215
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20985#The-Banner-Boy-Scouts-on-a-Tour---13-or-The-Mystery-of-Rattlesnake-Mountain
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2007-04-04'
 gutenberg_type: Text
